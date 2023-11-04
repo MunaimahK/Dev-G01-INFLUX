@@ -1,0 +1,6 @@
+Index File is the main page:
+    Establishes connection with MongoDB
+    mounts the router middleware to the /user location
+        That means any api goes through localhost/user and then whatever app.post(), get(), etc() route to 
+        
+    
